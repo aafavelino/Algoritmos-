@@ -44,16 +44,3 @@
 					if (vetor[j] > vetor[j+1])
 						 swap(vetor[j],vetor[j+1]);
 		}
-
-
-
-
-
-
-
-
-
-
-
-
-		
