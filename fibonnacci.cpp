@@ -1,3 +1,7 @@
+/*
+ * Autor: Adelino Afonso
+ */
+
 /**
  * Altere e complete o programa de maneira que ele seja capaz de
  * calcular a serie de Fibonacci ate 10^19 ou 10000000000000000000.
