@@ -1,6 +1,5 @@
 #include <iostream>
 using namespace std;
-	
 	int Busca_binaria_recursiva(int A[], int x, int l, int r);
 	int Busca_binaria(int A[], int x, int l, int r);
 	int bubble_sort(int *vetor, int tamanho);
